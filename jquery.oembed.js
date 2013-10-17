@@ -689,7 +689,7 @@
       {templateRegex:/.*com\/([^\/]+).*/ ,embedtag : {tag: 'iframe', width:'100%',height: '300' }
       }),
      
-    new $.fn.oembed.OEmbedProvider("jotform", "rich", ["form.jotform.co/form/.+"],"$1?",
+    new $.fn.oembed.OEmbedProvider("jotform", "rich", ["form.jotform.+/form/.+"],"$1?",
       {templateRegex:/(.*)/ ,embedtag : {tag: 'iframe', width:'100%',height: '507' }
       }),
     new $.fn.oembed.OEmbedProvider("reelapp", "rich", ["reelapp\\.com/.+"],"http://www.reelapp.com/$1/embed",
