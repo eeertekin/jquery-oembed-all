@@ -272,7 +272,7 @@ Current 3rd party sources include:
   http://www.pearltrees.com/#/N-f=1_4339252&N-s=1_4339252&N-p=36189761&N-u=1_359252&N-fa=3269727
 * urtak - oembed - is broken in iframe return atm -seems to be an embed.ly issue??
   https://urtak.com/u/6588
-* jotform - embedded
+* JotForm - embedded
   http://form.jotform.co/form/20740907897868
 * Urban Dictionary - YQL lookup
   http://www.urbandictionary.com/define.php?term=qwerty%20nosedive&defid=6423917
